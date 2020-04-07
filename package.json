@@ -1,0 +1,27 @@
+{
+  "name": "jssblog",
+  "version": "1.0.0",
+  "description": "jss blog",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ramakrishnakudikala/jssblog.git"
+  },
+  "keywords": [
+    "jss"
+  ],
+  "author": "ramakrishnakudikala",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ramakrishnakudikala/jssblog/issues"
+  },
+  "homepage": "https://github.com/ramakrishnakudikala/jssblog#readme",
+  "dependencies": {
+    "@sitecore-jss/sitecore-jss-react": "^14.0.0",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
+}
